@@ -93,7 +93,7 @@ I work end-to-end on the product, from PostgreSQL migrations and Deno Edge Funct
 
 ### 📫 Get in touch
 
-- 💼 **LinkedIn** — [rafael-nobre-350154252](https://www.linkedin.com/in/rafael-nobre-350154252/)
+- 💼 **LinkedIn** — [rafaelnobre-dev](https://www.linkedin.com/in/rafaelnobre-dev/)
 - ✉️ **Email** — [rnobre1223s@gmail.com](mailto:rnobre1223s@gmail.com)
 - 🌎 **Brazil** · open to fully remote international roles
 
